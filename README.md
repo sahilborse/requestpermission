@@ -1,4 +1,4 @@
-## created an api for user request permission 
+## created an Restful Api for user request permission 
 
 
 POST request /grantpermission/:id 
